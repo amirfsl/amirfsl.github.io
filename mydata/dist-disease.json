@@ -1,6 +1,6 @@
 [
     {
-		"DistID":"1009",
+	"DistID":"1009",
         "District": "Gombak",
         "Critical_Illness": "Heart Disease",
         "Number_of_Cases": 1200,
@@ -9,7 +9,7 @@
         "Gender": "Male"
     },
     {
-		"DistID":"1006",
+	"DistID":"1006",
         "District": "Hulu Langat",
         "Critical_Illness": "Stroke",
         "Number_of_Cases": 950,
@@ -18,7 +18,7 @@
         "Gender": "Female"
     },
     {
-		"DistID":"1007",
+	"DistID":"1007",
         "District": "Hulu Selangor",
         "Critical_Illness": "Cancer",
         "Number_of_Cases": 1100,
@@ -27,7 +27,7 @@
         "Gender": "Male"
     },
     {
-		"DistID":"1001",
+	"DistID":"1001",
         "District": "Klang",
         "Critical_Illness": "Chronic Respiratory Diseases",
         "Number_of_Cases": 800,
@@ -36,7 +36,7 @@
         "Gender": "Female"
     },
     {
-		"DistID":"1002",
+	"DistID":"1002",
         "District": "Kuala Langat",
         "Critical_Illness": "Diabetes",
         "Number_of_Cases": 1400,
@@ -45,7 +45,7 @@
         "Gender": "Male"
     },
     {
-		"DistID":"1004",
+	"DistID":"1004",
         "District": "Kuala Selangor",
         "Critical_Illness": "Kidney Disease",
         "Number_of_Cases": 700,
@@ -54,6 +54,7 @@
         "Gender": "Female"
     },
     {
+	"DistID":"1008",
         "District": "Petaling",
         "Critical_Illness": "Liver Disease",
         "Number_of_Cases": 600,
@@ -62,6 +63,7 @@
         "Gender": "Male"
     },
     {
+	"DistID":"1005",
         "District": "Sabak Bernam",
         "Critical_Illness": "Hypertension",
         "Number_of_Cases": 2000,
@@ -70,6 +72,7 @@
         "Gender": "Female"
     },
     {
+	"DistID":"1010",
         "District": "Sepang",
         "Critical_Illness": "Mental Health Disorders",
         "Number_of_Cases": 1500,
