@@ -1,1 +1,74 @@
-
+[
+    {
+        "District": "Gombak",
+        "Critical_Illness": "Heart Disease",
+        "Number_of_Cases": 1200,
+        "Year": 2023,
+        "Average_Age": 65,
+        "Gender": "Male"
+    },
+    {
+        "District": "Hulu Langat",
+        "Critical_Illness": "Stroke",
+        "Number_of_Cases": 950,
+        "Year": 2023,
+        "Average_Age": 70,
+        "Gender": "Female"
+    },
+    {
+        "District": "Hulu Selangor",
+        "Critical_Illness": "Cancer",
+        "Number_of_Cases": 1100,
+        "Year": 2023,
+        "Average_Age": 55,
+        "Gender": "Male"
+    },
+    {
+        "District": "Klang",
+        "Critical_Illness": "Chronic Respiratory Diseases",
+        "Number_of_Cases": 800,
+        "Year": 2023,
+        "Average_Age": 60,
+        "Gender": "Female"
+    },
+    {
+        "District": "Kuala Langat",
+        "Critical_Illness": "Diabetes",
+        "Number_of_Cases": 1400,
+        "Year": 2023,
+        "Average_Age": 50,
+        "Gender": "Male"
+    },
+    {
+        "District": "Kuala Selangor",
+        "Critical_Illness": "Kidney Disease",
+        "Number_of_Cases": 700,
+        "Year": 2023,
+        "Average_Age": 55,
+        "Gender": "Female"
+    },
+    {
+        "District": "Petaling",
+        "Critical_Illness": "Liver Disease",
+        "Number_of_Cases": 600,
+        "Year": 2023,
+        "Average_Age": 50,
+        "Gender": "Male"
+    },
+    {
+        "District": "Sabak Bernam",
+        "Critical_Illness": "Hypertension",
+        "Number_of_Cases": 2000,
+        "Year": 2023,
+        "Average_Age": 45,
+        "Gender": "Female"
+    },
+    {
+        "District": "Sepang",
+        "Critical_Illness": "Mental Health Disorders",
+        "Number_of_Cases": 1500,
+        "Year": 2023,
+        "Average_Age": 40,
+        "Gender": "Male"
+    }
+]
