@@ -1,5 +1,6 @@
 [
     {
+		"DistID":"1009",
         "District": "Gombak",
         "Critical_Illness": "Heart Disease",
         "Number_of_Cases": 1200,
@@ -8,6 +9,7 @@
         "Gender": "Male"
     },
     {
+		"DistID":"1006",
         "District": "Hulu Langat",
         "Critical_Illness": "Stroke",
         "Number_of_Cases": 950,
@@ -16,6 +18,7 @@
         "Gender": "Female"
     },
     {
+		"DistID":"1007",
         "District": "Hulu Selangor",
         "Critical_Illness": "Cancer",
         "Number_of_Cases": 1100,
@@ -24,6 +27,7 @@
         "Gender": "Male"
     },
     {
+		"DistID":"1001",
         "District": "Klang",
         "Critical_Illness": "Chronic Respiratory Diseases",
         "Number_of_Cases": 800,
@@ -32,6 +36,7 @@
         "Gender": "Female"
     },
     {
+		"DistID":"1002",
         "District": "Kuala Langat",
         "Critical_Illness": "Diabetes",
         "Number_of_Cases": 1400,
@@ -40,6 +45,7 @@
         "Gender": "Male"
     },
     {
+		"DistID":"1004",
         "District": "Kuala Selangor",
         "Critical_Illness": "Kidney Disease",
         "Number_of_Cases": 700,
